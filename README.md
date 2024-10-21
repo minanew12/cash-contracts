@@ -13,11 +13,6 @@ ether.fi Cash allows users to manage their funds through two primary mechanisms:
 
 The project comprises several smart contracts that ensure secure and efficient handling of user funds, collateral, and borrowing. Some of the main components include:
 
-- **UserSafe**: Manages user-owned assets and permissions.
-- **L2DebtManager**: Handles collateral and debt management for credit flows.
-- **PriceProvider**: Supplies price data for collateral valuation.
-- **SignatureUtils**: Manages signature verification, including WebAuthn support.
-
 ## Get Started
 
 To deploy and interact with these smart contracts, clone the repository and follow the build and test instructions provided below.
